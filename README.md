@@ -16,6 +16,7 @@ The Payroll System is a desktop-based application that provides a solution for s
 - Spring
 - AWT (Abstract Window Toolkit)
 - JDBC (Java Database Connectivity)
+- MySQL
 
 ## Getting Started
 
