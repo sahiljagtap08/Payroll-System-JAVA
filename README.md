@@ -8,7 +8,6 @@ The Payroll System is a desktop-based application that provides a solution for s
 - Add, edit, and delete employee details.
 - Calculate salary based on employee information and generate a payslip.
 - View employee information, salary details, and payslips.
-- Export salary details and payslips as PDF files.
 
 ## Technologies Used
 
