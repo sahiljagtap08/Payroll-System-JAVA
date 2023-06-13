@@ -36,7 +36,7 @@ git clone https://github.com/username/Payroll-System-JAVA.git
 
 ## Contributors
 
-- [Contributor](https://github.com/sahiljagtap08)
+- [Sahil Jagtap](https://github.com/sahiljagtap08)
 
 ## Acknowledgements
 
