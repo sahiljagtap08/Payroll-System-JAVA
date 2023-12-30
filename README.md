@@ -23,7 +23,7 @@ To get started with the Payroll System, follow the steps below:
 
 1. Clone this repository using the command below:
 
-git clone https://github.com/username/Payroll-System-JAVA.git
+git clone https://github.com/sahiljagtap08/Payroll-System-JAVA.git
 
 
 2. Import the project into your preferred IDE (e.g. Eclipse, IntelliJ IDEA).
